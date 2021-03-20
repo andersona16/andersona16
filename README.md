@@ -21,5 +21,5 @@ Sou um desenvolvedor iniciante, estudante de Sistemas de Informação e também 
 --- 
    ### 📫 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/andersonaraujjo/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto: andersonaraujoc1@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
+<a href="https://www.linkedin.com/in/andersonaraujjo/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto: andersonaraujoc1@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
 |--|--|
