@@ -8,7 +8,7 @@
  
 ---
 ### 📖 Sobre mim
-Sou um desenvolvedor iniciante, estudante de Sistemas de Informação e também Técnico em informática atualmente estudando para evoluir na jornada full-stack, meus objetivos envolvem expandir meus conhecimentos diariamente.
+Sou um desenvolvedor iniciante, estudante de Sistemas de Informação e também Técnico em informática atualmente estudando para evoluir na jornada Front-End, meus objetivos envolvem expandir meus conhecimentos diariamente.
 </details>
 
 ---
