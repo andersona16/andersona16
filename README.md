@@ -1,7 +1,7 @@
 
-## :man_technologist: Anderson Araujo
+## :man_technologist: Olá, me chamo **Anderson Araujo**, sou **Desenvolvedor Front-end** 👨‍💻 
  
-  ---
+ ---
 
 <details>
 <summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
@@ -22,6 +22,12 @@ Sou um desenvolvedor Front end Junior, estudante de Sistemas de Informação e t
 ![REACT](https://img.shields.io/badge/-REACT-1E9AFF?style=flat-square&logo=react&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-1E9AFF?style=flat-square&logo=typescript&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-1E9AFF?style=flat-square&logo=wordpress&logoColor=white)
+
+--- 
+
+### 
+- 👨‍💻 Buscando novos desafios;
+- 📝 Veja meu [Currículo](https://drive.google.com/file/d/19yurlia3MekPP_b2GirFCfg9nOeavWz2/view?usp=sharing) para obter mais informações.
 
 ---
    ### 📫 Conecte-se comigo
