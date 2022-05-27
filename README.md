@@ -20,8 +20,8 @@ Sou um desenvolvedor Front end Junior, estudante de Sistemas de Informação e t
 ![SASS](https://img.shields.io/badge/-SCSS-CF649A?style=flat-square&logo=SASS&logoColor=white) 
 ![BOOSTRAP](https://img.shields.io/badge/-BOOSTRAP-7010F5?style=flat-square&logo=bootstrap&logoColor=white)
 ![REACT](https://img.shields.io/badge/-REACT-1E9AFF?style=flat-square&logo=react&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-110AFB?style=flat-square&logo=react&logoColor=white](https://img.shields.io/badge/-TYPESCRIPT-1E9AFF?style=flat-square&logo=typescript&logoColor=white)
-![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-2020DAF?style=flat-square&logo=react&logoColor=white](https://img.shields.io/badge/-WORDPRESS-1E9AFF?style=flat-square&logo=wordpress&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-1E9AFF?style=flat-square&logo=typescript&logoColor=white)
+![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-1E9AFF?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
    ### 📫 Conecte-se comigo
