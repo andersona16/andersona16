@@ -27,7 +27,7 @@ Sou um desenvolvedor Front end Junior, estudante de Sistemas de Informação e t
 
 ### 
 - 👨‍💻 Buscando novos desafios;
-- 📝 Veja meu [Currículo](https://drive.google.com/file/d/19yurlia3MekPP_b2GirFCfg9nOeavWz2/view?usp=sharing) para obter mais informações.
+- 📝 Veja meu [Currículo](https://drive.google.com/file/d/1etbaK5HpQmdQ3MO9BY3kqR3z-IvVnNW0/view?usp=sharing) para obter mais informações.
 
 ---
    ### 📫 Conecte-se comigo
