@@ -27,7 +27,7 @@ Sou um desenvolvedor Front end Junior, estudante de Sistemas de Informação e t
 
 ### 
 - 👨‍💻 Buscando novos desafios;
-- 📝 Veja meu [Currículo](https://www.canva.com/design/DAFB7QBQspY/hU2uR7bW96k6Vehiqqnu4g/viewutm_content=DAFB7QBQspY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) para obter mais informações.
+- 📝 Veja meu [Currículo](https://www.canva.com/design/DAFB7QBQspY/hU2uR7bW96k6Vehiqqnu4g/view?utm_content=DAFB7QBQspY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) para obter mais informações.
 
 ---
    ### 📫 Conecte-se comigo
